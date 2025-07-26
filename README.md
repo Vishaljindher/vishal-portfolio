@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site highlights my Machine Learning, Deep Learning, and Data Science projects along with my skills, resume, and contact information.
 
-👉 **Live Website**: [vishaljindher.github.io](https://vishaljindher.github.io/)
+👉 **Live Website**: [vishaljindher.github.io](https://vishaljindher.github.io/vishal-portofolio)
 
 ---
 
@@ -52,7 +52,7 @@ portfolio/
 4. Click **Save**.
 5. Your portfolio will be live at:
 
-> For example: [https://vishaljindher.github.io/](https://vishaljindher.github.io/)
+> For example: [https://vishaljindher.github.io/](https://vishaljindher.github.io/vishal-portofolio)
 
 ---
 
